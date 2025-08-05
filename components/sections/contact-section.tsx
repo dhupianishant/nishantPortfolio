@@ -225,7 +225,7 @@ export default function ContactSection() {
                 I'm currently available for freelance work and consulting. My typical response time is within 24 hours.
               </p>
               <div className="flex items-center space-x-2">
-                <div className="h-3 w-3 rounded-full dark:bg-[#00FF00]"></div>
+                <div className="h-3 w-3 rounded-full dark:bg-[#00FF00] bg-[#00FF00]"></div>
                 <span className="text-sm font-medium text-black dark:text-white">Available for new projects</span>
               </div>
             </div>
