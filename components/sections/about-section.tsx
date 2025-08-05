@@ -26,12 +26,12 @@ const skills = [
   {
     name: "Backend Development",
     icon: <Server className="h-6 w-6" />,
-    description: "Node.js, Express.js, Python, RESTful APIs",
+    description: ".NET Core, C#, Node.js, Express.js, Python, RESTful APIs",
   },
   {
     name: "Database Management",
     icon: <Database className="h-6 w-6" />,
-    description: "MongoDB, PostgreSQL, MySQL, MySQl Server",
+    description: "SQL Server, MongoDB, PostgreSQL, MySQL",
   },
   {
     name: "UI/UX Design",
@@ -39,9 +39,9 @@ const skills = [
     description: "Figma, Adobe XD, Responsive Design, Accessibility",
   },
   {
-    name: "DevOps",
+    name: "Cloud & DevOps",
     icon: <Code className="h-6 w-6" />,
-    description: "Git, Vercel, Netlify, Railways",
+    description: "Microsoft Azure, Git, Vercel, Netlify, Railway",
   },
   {
     name: "AI Integration",
@@ -101,14 +101,13 @@ export default function AboutSection() {
           <h3 className="text-2xl font-bold mb-4 text-black dark:text-white">My Story</h3>
           <div className="space-y-4 text-neutral-700 dark:text-neutral-300">
             <p>
-              A Computer Science & Engineering graduate from Jaipur Engineering College & Research Centre, I am fascinated by how technology can solve real-world problems — a passion that led me to dive deep into the world of software development, where logic meets creativity.
+            A Computer Science & Engineering graduate from Jaipur Engineering College & Research Centre, I’m passionate about using technology to build practical, real-world solutions — a drive that led me into software development where logic meets creativity.
             </p>
             <p>
-              I specialize in building fast, responsive, and user-friendly web applications using modern technologies.
-              My approach combines technical expertise with a strong focus on user experience and business goals.
+            Currently a Software Engineer at Capgemini, I specialize in building cloud-based, scalable applications using .NET Core, C#, Azure, and SQL Server, with a strong eye for clean architecture and user experience.
             </p>
             <p>
-              When I'm not coding, you’ll often find me catching up on sleep, exploring cozy cafes, enjoying bike rides, or indulging my knack for driving around new places.
+            When I’m not coding, you’ll find me recharging with sleep, discovering cozy cafes, riding my bike, or exploring new places behind the wheel.
             </p>
           </div>
         </motion.div>

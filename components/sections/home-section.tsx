@@ -37,11 +37,11 @@ export default function HomeSection() {
             animate={{ opacity: 1 }}
             transition={{ delay: 0.9 }}
           >
-            <h2 className="text-3xl md:text-4xl font-bold text-neutral-700 dark:text-neutral-300">
-              Full-Stack Developer
+            <h2 className="text-3xl md:text-3xl font-bold text-neutral-700 dark:text-neutral-300">
+              SE @ Capgemini | .NET Core & Azure Developer | Full-Stack Enthusiast
             </h2>
             <p className="text-lg text-neutral-600 dark:text-neutral-400 max-w-2xl">
-              Eager recent graduate with expertise in C/C++, Full Stack Development, Databases, UI/UX Design, and Machine Learning.
+              Passionate developer building scalable, cloud-based applications with .NET Core, C#, and Microsoft Azure at Capgemini. I love transforming ideas into functional products, blending clean code with thoughtful design. With a strong foundation in C/C++, full-stack development, and a growing interest in machine learning, I aim to create impactful digital experiences that are both powerful and user-friendly.
             </p>
           </motion.div>
 

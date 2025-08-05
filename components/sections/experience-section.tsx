@@ -6,10 +6,17 @@ import { Briefcase } from "lucide-react"
 
 const workExperience = [
   {
+    id: 0,
+    title: "Software Engineer",
+    company: "Capgemini",
+    period: "Jun 2025 - Present",
+    description: "Currently developing scalable enterprise applications using .NET Core, C#, Azure, and SQL Server."  
+  },
+  {
     id: 1,
     title: "Web Developer",
     company: "Hiyasa Design",
-    period: "Apr 2025 - Present",
+    period: "Apr 2025 - Jun 2025",
     description:
       "Lead developer for enterprise web application. Architected and implemented scalable solution using Shopify API, Liquid, CSS, JavaScript. Collaborated with design and marketing teams to ensure seamless deployemnt and client satisfaction.",
   },
